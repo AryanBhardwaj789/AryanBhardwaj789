@@ -9,8 +9,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - 🚀 Currently involved in a variety of projects spanning Artificial Intelligence, Machine Learning, Web Development, and Graphic Design. From crafting intelligent algorithms to designing interactive user interfaces, my passion lies in leveraging technology to create innovative solutions.
 - 💥 Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback!
 
-# My Skills
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
