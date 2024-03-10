@@ -30,8 +30,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="[https://github.com/AryanBhardwaj789/AryanBhardwaj789/blob/main/space.gif]" alt="Space GIF" width="1128" height="400">
-
+<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/space.gif" alt="Space GIF">
 
 <!-- Markdown -->
 | ![Spotify Player](https://spotify-github-profile.vercel.app/api/view?uid=31gwrxminpvjiclmn6ohnuxwdmae&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true) |
