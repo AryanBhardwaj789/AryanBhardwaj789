@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+Yourself."
 />
             
-# Hi there,👋 Delve into my realm of repositories! 🌐
+# Delve into my realm of repositories! 🌐
 
 I'm an 18-year-old enthusiast in full-stack development, programming, and design 🚀. 
             
