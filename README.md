@@ -36,8 +36,3 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 | ![Spotify Player](https://spotify-github-profile.vercel.app/api/view?uid=31gwrxminpvjiclmn6ohnuxwdmae&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true) |
 | --:  | :-: |
 |![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=github_dark&layout=compact)](https://github.com/AryanBhardwaj789/github-readme-stats)|
-
-
-
-
-Feel free to reach out if you'd like to collaborate on a project or just chat about tech! 🚀
