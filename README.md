@@ -3,6 +3,7 @@
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+Yourself."
 />
+</div>
             
 # Delve into my realm of repositories! 🌐
 
