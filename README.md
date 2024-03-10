@@ -27,8 +27,8 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 
 ## 🌱 Currently Learning
 
-- React.js
-- Node.js
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Space GIF](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/space.gif)
 
