@@ -2,7 +2,7 @@
 # Hi there,👋 Delve into my realm of repositories! 🌐
 
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Kenneth+Mathari.;Android+Engineer;.....and+a+pull+request+connoisseur."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+yourself."
 />
             
 I am <b>Aryan Bhardwaj</b> 🙋🏻‍♂️(He/Him) <br>
