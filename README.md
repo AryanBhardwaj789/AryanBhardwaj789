@@ -1,7 +1,6 @@
-# Hi there, I'm Aryan Bhardwaj! 👋
 ![Aryan Bhardwaj PNG](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png)
 
-![Aryan Bhardwaj GIF](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.gif)
+# Hi there, I'm Aryan Bhardwaj! 👋
 
 Delve into my realm of repositories!
 
