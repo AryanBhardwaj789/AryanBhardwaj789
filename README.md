@@ -30,7 +30,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src=space.gif alt="Space GIF">
+<img src=space.gif alt="Space GIF" width="1128" height="400">
 
 
 <!-- Markdown -->
