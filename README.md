@@ -1,8 +1,8 @@
 # Hi there, I'm Aryan Bhardwaj! 👋
 
 Delve into my realm of repositories!
+<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.gif" width="200" />
 
-<img><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p></img>
 
 
 ## 🔧 Technologies & Tools
