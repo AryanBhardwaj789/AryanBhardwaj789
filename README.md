@@ -1,4 +1,4 @@
-<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png" height="400" width="300" />
+<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png" height="300" width="600" />
 
 
 # Hi there, I'm Aryan Bhardwaj! 👋
