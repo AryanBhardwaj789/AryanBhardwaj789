@@ -30,13 +30,13 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Space GIF](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/space.gif)
+<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/space.gif" alt="Space GIF" width="1128" height="400">
 
+<!-- Markdown -->
+| ![Spotify Player](https://spotify-readme-iota-plum.vercel.app/api?theme=dark) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang&theme=dark) |
+| --:  | :-: |
+|![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang&theme=github_dark&layout=compact)](https://github.com/yashvardhang/github-readme-stats)|
 
-## 📫 Let's Connect!
-
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Portfolio: [Your Portfolio Website](link-to-portfolio)
 
 
 
