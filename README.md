@@ -10,9 +10,10 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - 💥 Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback!
 
 # My Skills
-![Java](https://img.shields.io/badge/Java-Expert-orange)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-green)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
 
 
 
