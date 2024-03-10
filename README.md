@@ -1,8 +1,8 @@
 # Hi there, I'm Aryan Bhardwaj! 👋
 
-Delve into my realm of repositories!
-<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.gif" width="200" />
+![Aryan Bhardwaj GIF](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.gif)
 
+Delve into my realm of repositories!
 
 
 ## 🔧 Technologies & Tools
