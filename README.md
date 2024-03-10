@@ -1,7 +1,7 @@
 ![Aryan Bhardwaj PNG](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png)
 # Hi there,👋
 
-Delve into my realm of repositories!
+# Delve into my realm of repositories!
 
 I'm an 18-year-old enthusiast in full-stack development, programming, and design 🚀. 
             Currently pursuing a diploma in Computer Programming at Sheridan College ✨, 
