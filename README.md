@@ -33,7 +33,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 <img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/space.gif" alt="Space GIF" width="1128" height="400">
 
 <!-- Markdown -->
-| ![Spotify Player](https://spotify-readme-iota-plum.vercel.app/api?theme=dark) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang&theme=dark) |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gwrxminpvjiclmn6ohnuxwdmae&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gwrxminpvjiclmn6ohnuxwdmae&redirect=true) |
 | --:  | :-: |
 |![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang&theme=github_dark&layout=compact)](https://github.com/yashvardhang/github-readme-stats)|
 
