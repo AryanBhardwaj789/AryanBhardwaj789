@@ -46,10 +46,17 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
   </div>
   <div style="display: inline-block; margin-left: 20px;">
     <a href="https://github.com/AryanBhardwaj789/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=github_dark&layout=compact" alt="Top Langs"></a>
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=dark" alt="GitHub Streak">
   </div>
 </div>
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=dark" alt="GitHub Streak">
+  </div>
+  <div style="display: inline-block; margin-left: 20px;">
+    <!-- Add your fourth box content here -->
+  </div>
+</div>
+
 
 
 
