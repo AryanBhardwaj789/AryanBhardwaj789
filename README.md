@@ -1,11 +1,10 @@
 ![Aryan Bhardwaj PNG](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png)
-# Hi there,👋 Delve into my realm of repositories! 🌐
-
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+yourself."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+Yourself."
 />
             
-I am <b>Aryan Bhardwaj</b> 🙋🏻‍♂️(He/Him) <br>
+# Hi there,👋 Delve into my realm of repositories! 🌐
+
 I'm an 18-year-old enthusiast in full-stack development, programming, and design 🚀. 
             
 - Pursuing a diploma in Computer Programming at Sheridan College ✨,
