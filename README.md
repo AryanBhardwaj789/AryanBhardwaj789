@@ -1,4 +1,4 @@
-![Aryan Bhardwaj PNG](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png)
+<img src=ARYAN BHARDWAJ.png alt="Space GIF" width="1128" height="400">
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+Yourself."
 />
