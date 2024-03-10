@@ -1,4 +1,4 @@
-<img src="ARYAN BHARDWAJ.png" alt="Space GIF" width="1128" height="400">
+<img src="ARYAN BHARDWAJ.png" alt="Space GIF" width="500" height="300">
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer;.....+Espresso+Yourself."
 />
