@@ -1,6 +1,4 @@
-<img src="https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png" height="300" width="600" />
-
-
+![Aryan Bhardwaj PNG](https://github.com/AryanBhardwaj789/AryanBhardwaj789/raw/main/ARYAN%20BHARDWAJ.png)
 # Hi there, I'm Aryan Bhardwaj! 👋
 
 Delve into my realm of repositories!
