@@ -11,8 +11,8 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
             
 - Diploma in Computer Programming from Sheridan College ✨,
 - I'm deeply passionate about mastering a wide range of technologies and languages 💻.
-- 🚀 Currently involved in a variety of projects spanning Artificial Intelligence, Machine Learning, Web Development, and Graphic Design. From crafting intelligent algorithms to designing interactive user interfaces, my passion lies in leveraging technology to create innovative solutions.
-- 💥 Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback!
+- Currently involved in a variety of projects spanning Artificial Intelligence, Machine Learning, Web Development, and Graphic Design. From crafting intelligent algorithms to designing interactive user interfaces, my passion lies in leveraging technology to create innovative solutions 🚀.
+- Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback! 💥
 
 ## My [Projects]() and Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
