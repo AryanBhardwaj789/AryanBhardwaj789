@@ -15,7 +15,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 - Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback! 💥
 
 ## Languages & Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,angular,express,php,java,spring,py,c,cs,cpp,dotnet,latex,linux,postman,netlify,nginx,npm,bootstrap,tailwind,materialui,figma,vscode,visualstudio,eclipse,discord,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,angular,express,php,java,spring,py,c,cs,cpp,dotnet,latex,linux,postman,netlify,nginx,npm,bootstrap,tailwind,materialui,figma,vscode,visualstudio,eclipse,github,discord,git)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
