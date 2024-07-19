@@ -19,8 +19,8 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 
 ## 🌱 Currently Learning
 
-- React [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-- Nodejs ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- #React [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+- #Nodejs ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <img src=space.gif alt="Space GIF" width="1128" height="400">
 
