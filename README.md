@@ -33,6 +33,8 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
   </a>
 </p>
 
+##
+##
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=dark) | ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=github_dark&layout=compact)](https://github.com/AryanBhardwaj789/github-readme-stats) |
 | :-: | :-: | :-: |
