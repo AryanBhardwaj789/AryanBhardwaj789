@@ -20,14 +20,14 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 ## 🌱 Currently Learning
 
 <p>
-  <strong style="font-size: 22px;">React</strong>
+  <strong style="font-size: 22px;">- React</strong>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 24px;">
   </a>
 </p>
 
 <p>
-  <strong style="font-size: 22px;">Nodejs</strong>
+  <strong style="font-size: 22px;">- Nodejs</strong>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="React" style="height: 24px;">
   </a>
