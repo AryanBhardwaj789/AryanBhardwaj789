@@ -19,16 +19,19 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 
 ## 🌱 Currently Learning
 
-<table>
-  <tr>
-    <td style="font-size: 18px; font-weight: bold; vertical-align: middle;">#React</td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 24px; vertical-align: middle;"></a></td>
-  </tr>
-  <tr>
-    <td style="font-size: 18px; font-weight: bold; vertical-align: middle;">#Nodejs</td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="height: 24px; vertical-align: middle;"></td>
-  </tr>
-</table>
+<p>
+  <strong style="font-size: 22px;">React</strong>
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 24px;">
+  </a>
+</p>
+
+<p>
+  <strong style="font-size: 22px;">Nodejs</strong>
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="React" style="height: 24px;">
+  </a>
+</p>
 
 <img src=space.gif alt="Space GIF" width="1128" height="400">
 
