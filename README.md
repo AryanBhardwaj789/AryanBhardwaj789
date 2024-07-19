@@ -1,4 +1,4 @@
-<img src=coding.gif alt="Space GIF" width="1128" height="400">
+<img src=Coding.gif alt="Space GIF" width="1128" height="400">
 
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Aryan+Bhardwaj;Web+Developer+🌐;.....+Espresso+Yourself+☕"
