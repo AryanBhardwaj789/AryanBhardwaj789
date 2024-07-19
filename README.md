@@ -8,6 +8,20 @@
 # Delve into my realm of repositories! 🌐
 
 I'm an 18-year-old enthusiast in full-stack development, programming, and design 🚀. 
+
+# Custom Font Example
+
+<!-- Link to Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
+<!-- Applying the custom font -->
+<p style="font-family: 'Lobster', cursive; font-size: 24px; color: #FF5733;">
+  This text is styled with the Lobster font.
+</p>
+
+<p style="font-family: 'Lobster', cursive; font-size: 20px; color: #333;">
+  Add more custom font styled text here.
+</p>
             
 - Diploma in Computer Programming from Sheridan College ✨,
 - I'm deeply passionate about mastering a wide range of technologies and languages 💻.
@@ -19,7 +33,7 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 
 ## 🌱 Currently Learning
 
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <img src=space.gif alt="Space GIF" width="1128" height="400">
