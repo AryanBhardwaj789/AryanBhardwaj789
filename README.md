@@ -27,9 +27,9 @@ I'm an 18-year-old enthusiast in full-stack development, programming, and design
 </p>
 
 <p>
-  <strong style="font-size: 22px;">- Nodejs</strong>
+  <strong style="font-size: 22px;">- Nextjs</strong>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="React" style="height: 28px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" style="height: 28px;">
   </a>
 </p>
 
