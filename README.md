@@ -55,5 +55,12 @@ Open to collaboration and always excited to connect with fellow developers and t
 
 ##
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=dark) | ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=github_dark&layout=compact)](https://github.com/AryanBhardwaj789/github-readme-stats) |
-| :-: | :-: | :-: |
+<div align="center">
+
+| <img width="500px" src="https://github-readme-stats.vercel.app/api?username=AryanBhardwaj789&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> | <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=tokyonight&hide_border=true"/> |
+| :-: | :-: |
+
+| <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/> | <img width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanBhardwaj789&theme=tokyonight"/> |
+| :-: | :-: |
+
+</div>
