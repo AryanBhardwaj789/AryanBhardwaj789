@@ -18,7 +18,10 @@ Technical Focus:
 - Full-Stack Engineering (React, Node.js, Next.js, TypeScript, RESTful APIs)
 - DevOps & CI/CD (Git, GitHub Actions, Automated Testing, Jira)
 
-Actively contributing to projects that bridge innovative technology with real-world applications. My portfolio demonstrates a blend of production experience and experimental projects, from AI-powered solutions to scalable web applications.
+Actively contributing to projects that bridge innovative technology with real-world applications. 
+
+My portfolio demonstrates a blend of production experience and experimental projects, from AI-powered solutions to scalable web applications.
+
 Open to collaboration and always excited to connect with fellow developers and technologists!
 
 ## Languages & Skills
