@@ -7,33 +7,49 @@
             
 # Delve into my realm of repositories! 🌐
 
-I'm an 18-year-old enthusiast in full-stack development, programming, and design 🚀. 
-            
-- Graduated in Computer Programming from Sheridan College ✨,
-- I'm deeply passionate about mastering a wide range of technologies and languages 💻.
-- Currently involved in a variety of projects spanning Artificial Intelligence, Machine Learning, Web Development, and Graphic Design. From crafting intelligent algorithms to designing interactive user interfaces, my passion lies in leveraging technology to create innovative solutions 🚀.
-- Explore my website to discover the projects I've been working on. I'd love to hear your thoughts and feedback! 💥
+A Software Engineer with a drive for building impactful digital solutions and a deep fascination for emerging technologies. Combining strong technical foundations from Sheridan College with hands-on experience in delivering production-ready applications.
+
+Currently:
+- SWE Fellow @ HeadStarter AI 💥
+- Computer Programming Graduate @ Sheridan College, Oakville ✨
+
+Technical Focus:
+- Cloud-Native Development (AWS, Azure, Docker, GCP, Microservices Architecture)
+- Full-Stack Engineering (React, Node.js, Next.js, TypeScript, RESTful APIs)
+- DevOps & CI/CD (Git, GitHub Actions, Automated Testing, Jira)
+
+Actively contributing to projects that bridge innovative technology with real-world applications. My portfolio demonstrates a blend of production experience and experimental projects, from AI-powered solutions to scalable web applications.
+Open to collaboration and always excited to connect with fellow developers and technologists!
 
 ## Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,angular,express,php,java,spring,py,c,cs,cpp,dotnet,latex,linux,postman,netlify,nginx,npm,bootstrap,tailwind,materialui,figma,vscode,visualstudio,eclipse,github,discord,git)](https://skillicons.dev)
 
-## 🌱 Currently Learning
-
+## 🌱 Currently Learning & Building With
 <p>
-  <strong style="font-size: 22px;">- React</strong>
-  <a href="https://skillicons.dev" style="vertical-align: middle;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 28px;">
-  </a>
-</p>
-
-<p>
-  <strong style="font-size: 22px;">- Nextjs</strong>
+  <strong style="font-size: 22px;">- Next.js 14</strong>
   <a href="https://skillicons.dev" style="vertical-align: middle;">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs" style="height: 28px;">
   </a>
 </p>
+<p>
+  <strong style="font-size: 22px;">- TypeScript</strong>
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="height: 28px;">
+  </a>
+</p>
+<p>
+  <strong style="font-size: 22px;">- Node.js & Express</strong>
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express" style="height: 28px;">
+  </a>
+</p>
+<p>
+  <strong style="font-size: 22px;">- AWS Cloud</strong>
+  <a href="https://skillicons.dev" style="vertical-align: middle;">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="height: 28px;">
+  </a>
+</p>
 
-##
 ##
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanBhardwaj789&theme=dark) | ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBhardwaj789&theme=github_dark&layout=compact)](https://github.com/AryanBhardwaj789/github-readme-stats) |
